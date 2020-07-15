@@ -1,3 +1,38 @@
 body{
     background-color: grey
 }
+h1{
+    color: black;
+    font-size: 64px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+li{
+    font-family: Arial, sans-serif;
+    position: relative;
+    left: 0px;
+    font-size: 18px
+}
+
+h2{
+    font-family: Arial, sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: left;
+}
+h3{
+    font-family: Arial, sans-serif;
+    color: black;
+    font-size: 12px;
+    text-align: left;
+
+}
+h4{
+    font-family: Arial, sans-serif;
+    color: black;
+    font-size: 24px;
+    text-align: left;
+
+}
+
